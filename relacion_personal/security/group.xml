@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<odoo>
-    <data>
-        <record model="res.groups" id="admin_personal">
-            <field name="name">Administrador de Encuadre</field>
-        </record>
-    </data>
-</odoo>
